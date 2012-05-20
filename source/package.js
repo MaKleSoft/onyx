@@ -20,5 +20,6 @@ enyo.depends(
 	"Slider.js",
 	"Menu.js",
 	"Item.js",
-	"MenuItem.js"
+	"MenuItem.js",
+	"Spinner.js"
 );
